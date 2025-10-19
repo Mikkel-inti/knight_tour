@@ -3,7 +3,7 @@
 Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**, der implementerer en **greedy** løsning *Knights Tour* problemet. 
 
 Med start fra position **(0,0)** på boardet, vælger springeren altid det **første lovlige træk** i en fast rækkefølge. Turen stopper, når der ikke er flere mulige træk for springeren at udføre.
-For alle startfelter bliver antallet af besøgte felter** udskrevet i en tabel.
+For alle startfelter, bliver antallet af besøgte felter udskrevet i en tabel løbende.
 
 ## Filer
 - `knights_tour.h` – **konstanter og typer**, samt **deklarering** af funktioner.
